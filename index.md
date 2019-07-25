@@ -2,7 +2,7 @@
 
 # Animal League Privacy Policy
 
-The Vault (“us”, “we”, or “our”) operates the website and the The Vault mobile application (the “Service”).
+Animal League (“us”, “we”, or “our”) operates the website and the Animal League mobile application (the “Service”).
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -44,7 +44,7 @@ Examples of Cookies we use:
 
 # Use of Data
 
-The Vault uses the collected data for various purposes:
+Animal League uses the collected data for various purposes:
 
 To provide and maintain the Service
 To notify you about changes to our Service
@@ -62,16 +62,16 @@ If you are located outside United States and choose to provide information to us
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-The Vault will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+Animal League will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 # Disclosure Of Data
 
 ## Legal Requirements
 
-The Vault may disclose your Personal Data in the good faith belief that such action is necessary to:
+Animal League may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 To comply with a legal obligation
-To protect and defend the rights or property of The Vault
+To protect and defend the rights or property of Animal League
 To prevent or investigate possible wrongdoing in connection with the Service
 To protect the personal safety of users of the Service or the public
 To protect against legal liability
@@ -90,15 +90,17 @@ These third parties have access to your Personal Data only to perform these task
 
 We may use third-party Service Providers to monitor and analyze the use of our Service.
 
-- **Unity Ads:**
-
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy
-
 - **Unity Analytics:**
 
-Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+Unity Analytics is an analytics service offered by Unity that tracks and reports application traffic. Unity uses the data collected to track and monitor the use of our Service. This data is shared with other Unity services. Unity may use the collected data to contextualize and personalize the ads of its own advertising network.
 
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy
+For more information on the privacy practices of Unity, please visit the Unity Privacy Policy web page:
+https://unity3d.com/legal/privacy-policy
+
+- **Unity Ads:**
+
+For more information on the privacy practices of Unity, please visit the Unity Privacy Policy web page:
+https://unity3d.com/legal/privacy-policy
 
 # Links To Other Sites
 
@@ -125,41 +127,3 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:
 
 - By email: **crocusgames@gmail.com**
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/serkanbal/animal_league_site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/serkanbal/animal_league_site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
