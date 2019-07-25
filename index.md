@@ -1,4 +1,4 @@
-**Effective date: July 25, 2018**
+**Effective date: July 25, 2019**
 
 # Animal League Privacy Policy
 
