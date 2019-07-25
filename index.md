@@ -1,8 +1,4 @@
-title:Animal League Privacy Policy
-
 **Effective date: July 25, 2019**
-
-# Animal League Privacy Policy
 
 Animal League (“us”, “we”, or “our”) operates the website and the Animal League mobile application (the “Service”).
 
