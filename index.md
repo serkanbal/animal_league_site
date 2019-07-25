@@ -1,3 +1,5 @@
+title:Animal League Privacy Policy
+
 **Effective date: July 25, 2019**
 
 # Animal League Privacy Policy
