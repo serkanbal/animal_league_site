@@ -10,12 +10,6 @@ We collect several different types of information for various purposes to provid
 
 ## Types of Data Collected
 
-### Personal Data
-
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
-
-- **Cookies and Usage Data**
-
 ### Usage Data
 
 We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device (“Usage Data”).
