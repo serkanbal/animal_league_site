@@ -36,13 +36,13 @@ Examples of Cookies we use:
 
 Animal League uses the collected data for various purposes:
 
-To provide and maintain the Service
-To notify you about changes to our Service
-To allow you to participate in interactive features of our Service when you choose to do so
-To provide customer care and support
-To provide analysis or valuable information so that we can improve the Service
-To monitor the usage of the Service
-To detect, prevent and address technical issues
+- To provide and maintain the Service
+- To notify you about changes to our Service
+- To allow you to participate in interactive features of our Service when you choose to do so
+- To provide customer care and support
+- To provide analysis or valuable information so that we can improve the Service
+- To monitor the usage of the Service
+- To detect, prevent and address technical issues
 
 # Transfer Of Data
 
@@ -60,11 +60,11 @@ Animal League will take all steps reasonably necessary to ensure that your data 
 
 Animal League may disclose your Personal Data in the good faith belief that such action is necessary to:
 
-To comply with a legal obligation
-To protect and defend the rights or property of Animal League
-To prevent or investigate possible wrongdoing in connection with the Service
-To protect the personal safety of users of the Service or the public
-To protect against legal liability
+- To comply with a legal obligation
+- To protect and defend the rights or property of Animal League
+- To prevent or investigate possible wrongdoing in connection with the Service
+- To protect the personal safety of users of the Service or the public
+- To protect against legal liability
 
 # Security Of Data
 
