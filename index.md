@@ -85,7 +85,7 @@ We may use third-party Service Providers to monitor and analyze the use of our S
 Unity Analytics is an analytics service offered by Unity that tracks and reports application traffic. Unity uses the data collected to track and monitor the use of our Service. This data is shared with other Unity services. Unity may use the collected data to contextualize and personalize the ads of its own advertising network.
 
 For more information on the privacy practices of Unity, please visit the Unity Privacy Policy web page:
-https://unity3d.com/legal/privacy-policy
+[https://unity3d.com/legal/privacy-policy](https://unity3d.com/legal/privacy-policy)
 
 - **Unity Ads:**
 
