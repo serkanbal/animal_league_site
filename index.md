@@ -92,6 +92,16 @@ https://unity3d.com/legal/privacy-policy
 For more information on the privacy practices of Unity, please visit the Unity Privacy Policy web page:
 https://unity3d.com/legal/privacy-policy
 
+- **Google Analytics:**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy
+
+- **Firebase:**
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://firebase.google.com/support/privacy/
+
 # Links To Other Sites
 
 Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
