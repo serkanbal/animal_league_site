@@ -90,17 +90,17 @@ For more information on the privacy practices of Unity, please visit the Unity P
 - **Unity Ads:**
 
 For more information on the privacy practices of Unity, please visit the Unity Privacy Policy web page:
-https://unity3d.com/legal/privacy-policy
+[https://unity3d.com/legal/privacy-policy](https://unity3d.com/legal/privacy-policy)
 
 - **Google Analytics:**
 
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services.
 
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 - **Firebase:**
 
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://firebase.google.com/support/privacy/
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://firebase.google.com/support/privacy/](https://firebase.google.com/support/privacy/)
 
 # Links To Other Sites
 
